@@ -3,9 +3,9 @@
 
 ## [1. Streamlit 웹 서비스](https://kingbeem-storesales-streamlit-by-kaggle-main-app-3fqmf1.streamlit.app/, "Streamlit Link")<br/>
 
-## [2. 개인 ipynb 파일](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/pdf/storesales.ipynb, "Presentation Link")<br/>
+## [2. 개인 ipynb 파일](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/pdf/storesales.ipynb/, "Presentation Link")<br/>
 
-## [3. PDF 파일](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/pdf/StoreSales_Attention.pdf, "PDF Link")<br/>
+## [3. PDF 파일](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/pdf/StoreSales_Attention.pdf/, "PDF Link")<br/>
 
 ---
 ![image](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/img/main-store.png)
